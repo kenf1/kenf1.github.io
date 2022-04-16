@@ -19,8 +19,8 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "https://kenf1.github.io/", title: "Homepage"}
   - {file: "index.md"}
-  - {file: "brief_cv.md"}
-  - {file: "about_me.md"}
+  - {file: "brief_cv.md", title: "Simplified CV"}
+  - {file: "about_me.md", title: "About Me"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:"}
