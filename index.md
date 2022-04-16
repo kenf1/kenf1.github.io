@@ -3,12 +3,18 @@ layout: page
 title: ""
 ---
 
-<img src="Images/avataaars.png" width="250",height="250/>
+<div style="text-align: center">
+    <img src="Images/avataaars.png" width="200" />
+</div>
 
 <br>
 
-<h1 align="center">Kenneth Fond</h1>
+<h1 align="center">
+    <strong>Kenneth Fond</strong>
+</h1>
 
-<p align="center">I am an aspiring Physician-Data Scientist currently working as a Data Scientist in an academic research lab.</p>
+<h3 align="center">I am an aspiring Physician-Data Scientist currently working as a Data Scientist in an academic research lab.</h3>
+
+<br>
 
 Read more about me [here](about_me.md).
