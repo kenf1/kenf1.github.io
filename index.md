@@ -13,8 +13,14 @@ title: ""
     <strong>Kenneth Fond</strong>
 </h1>
 
-<h3 align="center">I am an aspiring Physician-Data Scientist currently working as a Data Scientist in an academic research lab.</h3>
+<h3 align="center">
+    I'm an aspiring Physician-Data Scientist currently working as a Data Scientist in an academic research lab.
+</h3>
 
 <br>
 
-Read more about me [here](about_me.md).
+<p align="center">
+    <strong>
+        <a href="about_me.md">More about me.</a>
+    </strong>
+</p>

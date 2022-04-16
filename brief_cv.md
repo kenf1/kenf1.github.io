@@ -37,6 +37,6 @@ Without going into specifics, projects (work + personal) I am currently working 
 
 <br>
 
-<p align="center">
+<h3 align="center">
     <strong>Feel free to contact me if you have questions or would like to collaborate.</strong>
-</p>
+</h3>
