@@ -4,7 +4,7 @@ title: ""
 ---
 
 <div style="text-align: center">
-    <img src="Images/avataaars.png" width="200" />
+    <img src="/Images/avataaars.png" width="200" />
 </div>
 
 <br>
