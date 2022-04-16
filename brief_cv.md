@@ -29,4 +29,4 @@ Without going into the specifics, below is a list of projects (work + personal) 
 
 + R Shiny app/dashboard
 
-+ webscraping in Python
++ webscraping using Python
