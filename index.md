@@ -19,8 +19,6 @@ title: ""
 
 <br>
 
-<p align="center">
-    <strong>
-        <a href="about_me.md">More about me.</a>
-    </strong>
-</p>
+<h4 align="center">
+    <a href="https://kenf1.github.io/about_me/">More about me.</a>
+</h4>
