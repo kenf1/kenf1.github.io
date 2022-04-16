@@ -17,8 +17,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {url: "https://kenf1.github.io/", title: "Homepage"}
   - {file: "index.md"}
+  - {url: "https://kenf1.github.io/", title: "Homepage"}
   - {file: "brief_cv.md", title: "Simplified CV"}
   - {file: "about_me.md", title: "About Me"}
 

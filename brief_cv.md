@@ -1,11 +1,15 @@
 ---
 layout: page
-title: "Simplified CV"
+title: ""
 ---
+
+<h1 align="center">
+    Simplified CV
+</h1>
 
 ## Publications
 
-The entire list of publications I contributed to can be found on [ORCID](https://orcid.org/0000-0002-9154-6599).
+A full list of my publications can be found on [ORCID](https://orcid.org/0000-0002-9154-6599).
 
 ## Select Presentations
 
@@ -19,9 +23,9 @@ The entire list of publications I contributed to can be found on [ORCID](https:/
 
     + An R package containing custom functions and templates intended to improve my workflow in R.
 
-### Ongoing Projects
+## Ongoing Projects
 
-Without going into the specifics, below is a list of projects (work + personal) I am currently working on:
+Without going into specifics, projects (work + personal) I am currently working on are:
 
 + building ML model(s)
 
@@ -30,3 +34,9 @@ Without going into the specifics, below is a list of projects (work + personal) 
 + R Shiny app/dashboard
 
 + webscraping using Python
+
+<br>
+
+<p align="center">
+    <strong>Feel free to contact me if you have questions or would like to collaborate.</strong>
+</p>
