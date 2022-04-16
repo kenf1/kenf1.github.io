@@ -3,11 +3,9 @@ layout: page
 title: "Simplified CV"
 ---
 
-# Kenneth Fond
-
 ## Publications
 
-The entire list of my publications can be found on [ORCID](https://orcid.org/0000-0002-9154-6599).
+The entire list of publications I contributed to can be found on [ORCID](https://orcid.org/0000-0002-9154-6599).
 
 ## Select Presentations
 
