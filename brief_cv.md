@@ -9,21 +9,36 @@ title: ""
 
 ## Publications
 
+---
+
 A full list of my publications can be found on [ORCID](https://orcid.org/0000-0002-9154-6599).
+
+<br>
 
 ## Select Presentations
 
-1. [Learning R, From Beginner to Coding Machine](https://github.com/kenf1/RIG_Presentation)
+---
+
+1. [Learning R, From Beginner to Coding Machine]()
 
     + A SIG/RIG presentation on how I learned R along with demos on general use-cases.
+    + [Repo](https://github.com/kenf1/RIG_Presentation)
+
+<br>
 
 ## Select Projects
+
+---
 
 1. [KF.QoL R Package](https://github.com/kenf1/KF.QoL)
 
     + An R package containing custom functions and templates intended to improve my workflow in R.
 
+<br>
+
 ## Ongoing Projects
+
+---
 
 Without going into specifics, projects (work + personal) I am currently working on are:
 
