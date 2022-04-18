@@ -7,7 +7,7 @@ title: ""
     About Me
 </h1>
 
-Although I primarily use [R](https://www.r-project.org/) and the [RStudio IDE](https://www.rstudio.com/) for my Data Science projects, I have experience coding in [Python](https://www.python.org/) with [VS Code](https://code.visualstudio.com/) being my IDE of choice. [Git](https://git-scm.com/) and [Markdown](https://www.markdownguide.org/) rounds out the list of tools I frequently use.
+Although I primarily use [R](https://www.r-project.org/) and the [RStudio IDE](https://www.rstudio.com/) for my Data Science projects, I have some experience coding in [Python](https://www.python.org/) with [VS Code](https://code.visualstudio.com/) being my IDE of choice. [Git](https://git-scm.com/) and [Markdown](https://www.markdownguide.org/) round out the list of the tools I frequently use.
 
 <br>
 
@@ -19,14 +19,7 @@ Although I primarily use [R](https://www.r-project.org/) and the [RStudio IDE](h
 
 Outside of work, I play [table tennis](https://en.wikipedia.org/wiki/Table_tennis#Penhold) as a [Penholder](https://en.wikipedia.org/wiki/Table_tennis_styles#Penhold_grip).
 
-<div align="center">
+Current table tennis equipment:
 
-Current table tennis racket setup:
-
-|Component|Name|
-|---|---|
-|**Blade**|DHS G8|
-|**Forehand Rubber**|DHS Hurricane II (inverted pips)|
-|**Backhand Rubber**|*same as forehand*|
-
-</div>
++ **Blade**: DHS G8
++ **Forehand and Backhand Rubbers**: DHS Hurricane II (inverted pips)

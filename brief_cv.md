@@ -19,10 +19,9 @@ A full list of my publications can be found on [ORCID](https://orcid.org/0000-00
 
 ---
 
-1. [Learning R, From Beginner to Coding Machine]()
+1. [Learning R, From Beginner to Coding Machine](https://github.com/kenf1/RIG_Presentation)
 
     + A SIG/RIG presentation on how I learned R along with demos on general use-cases.
-    + [Repo](https://github.com/kenf1/RIG_Presentation)
 
 <br>
 
