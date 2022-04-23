@@ -13,15 +13,17 @@ A full list of my publications can be found on [ORCID](https://orcid.org/0000-00
 
 <br>
 
-## Select Presentations
+## Select Presentations (Descending Order)
 
-1. [Learning R, From Beginner to Coding Machine](https://github.com/kenf1/RIG_Presentation)
+1. [Learning R, From Beginner to Coding Machine](https://kf-rjourney.netlify.app/)
 
-    + A SIG/RIG presentation on how I learned R along with demos on general use-cases.
+    + **Summary**: A SIG/RIG presentation on how I learned the R programming language as someone with near zero prior coding experience. This presentation includes demos/showcases of how R can be incorporated into a Data Science workflow. At the end, I will be giving general advice for those who are interested in learning R but don't know how/where to start.
+    
+    + [Code](https://github.com/kenf1/RIG_Presentation)
 
 <br>
 
-## Select Projects
+## Select Projects (Descending Order)
 
 1. [KF.QoL R Package](https://github.com/kenf1/KF.QoL)
 
