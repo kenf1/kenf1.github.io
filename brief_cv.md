@@ -25,6 +25,11 @@ A full list of my publications can be found on [ORCID](https://orcid.org/0000-00
 
 ## Select Projects (Descending Order)
 
+1. [Kaggle Spaceship Titanic Competition using R](https://github.com/kenf1/KaggleST-R)
+    
+    + My R code for the [Kaggle Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic) competition that achieved a first submission score of **0.78442**.
+    + The maximum submission score is 1.00000 which is near-impossible as no model/prediction algorithm is 100% accurate.
+
 1. [KF.QoL R Package](https://github.com/kenf1/KF.QoL)
 
     + An R package containing custom functions and templates intended to improve my workflow in R.
