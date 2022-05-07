@@ -26,7 +26,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:kenfv1@outlook.com"}
   - {title: Github, icon: github, url: "https://github.com/kenf1"}
   - {title: Kaggle, icon: kaggle, url: "https://www.kaggle.com/bmarcg"}
-  - {title: Twitter, icon: twitter, url: "@kenf_1"}
+  - {title: Twitter, icon: twitter, text: "@kenf_1"}
 
 remote_theme: niklasbuschmann/contrast@v2.11
 
