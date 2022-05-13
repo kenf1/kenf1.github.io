@@ -25,16 +25,22 @@ A full list of my publications can be found on [ORCID](https://orcid.org/0000-00
 
 ## Select Projects (Descending Order)
 
-1. [Kaggle Spaceship Titanic Competition using R](https://github.com/kenf1/KaggleST-R)
-    
-    + My R code for the [Kaggle Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic) competition that achieved a first submission score of **0.78442**.
-    + The maximum submission score is 1.00000 which is near-impossible as no model/prediction algorithm has 100% accuracy, especially when the original dataset has missing data.
+1. [TT-DS](https://github.com/kenf1/TT-DS-Project)
 
-1. [Kaggle ITTF Dataset EDA](https://github.com/kenf1/Kaggle_ITTF)
+    + A follow-up to the [ITTF Dataset](https://github.com/kenf1/Kaggle_ITTF) exploratory data analysis. This project will be a collection of smaller projects, each aimed towards understanding an aspect of the sport of table tennis.
+
+        + [Two scripts, One purpose](https://github.com/kenf1/TT-DS/tree/main/Rankings)
+
+2. [Spaceship Titanic Competition](https://github.com/kenf1/KaggleST)
+    
+    + My R code for the [Kaggle Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic) competition with a first submission score of **0.78442**.
+    + The maximum submission score is 1.00000 which is near-impossible as no model/prediction algorithm has 100% accuracy, especially when the original dataset contains missing data.
+
+3. [ITTF Dataset EDA](https://github.com/kenf1/Kaggle_ITTF)
    
    + An exploratory data analysis project on the International Table Tennis Federation (ITTF) dataset from the [Kaggle website](https://www.kaggle.com/datasets/romanzdk/ittf-table-tennis-player-rankings-and-information).
 
-1. [KF.QoL R Package](https://github.com/kenf1/KF.QoL)
+4. [KF.QoL R Package](https://github.com/kenf1/KF.QoL)
 
     + An R package containing custom functions and templates intended to improve my workflow in R.
 
