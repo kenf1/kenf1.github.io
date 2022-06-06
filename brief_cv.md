@@ -43,6 +43,7 @@ A full list of my publications can be found on [ORCID](https://orcid.org/0000-00
 4. [KF.QoL R Package](https://github.com/kenf1/KF.QoL)
 
     + An R package containing custom functions and templates intended to improve my workflow in R.
+    + [Documentation](https://kenf1.github.io/Rendered/KF.QoL%20Documentation/)
 
 <br>
 
