@@ -55,9 +55,7 @@ Without going into specifics, projects (work + personal) I am currently working 
 
 + meta-analysis
 
-+ R Shiny app/dashboard
-
-+ webscraping using Python
++ apps/dashboards using R and Python
 
 <br>
 
